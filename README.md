@@ -31,8 +31,4 @@ Please note that this is a simple implementation of a neural network and is inte
 If you would like to contribute to this repository, please submit a pull request with your proposed changes.
 
 
-## Author
-
-! @ZiyadKadekara
-
 Thank you for using this repository, I hope you find it helpful!
